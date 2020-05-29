@@ -1,0 +1,57 @@
+.jumbotron {
+	background-image: url(../Hero/Image/HeroImage.png);
+	background-color: white;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	width: auto;
+	text-align: center;
+	border-radius: 0;
+	margin-bottom: 0px;
+}
+
+.lead {
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	text-align: center;
+}
+
+.heroText {
+	color: #ffffff;
+	font-family: "Open Sans";
+	font-size: 72px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	line-height: 90px;
+	margin-bottom: 50px;
+}
+
+.heroBtn {
+	width: 392px;
+	height: 56px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.24), 0 0 1px rgba(0, 0, 0, 0.12);
+	border-radius: 4px;
+	background-color: #0069d2;
+}
+
+.joinText {
+	color: #ffffff;
+	font-family: "Open Sans";
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	line-height: 40px;
+}
+
+@media (max-width: 768px) {
+	.heroText {
+		font-size: 58px;
+	}
+
+	.heroBtn {
+		width: 292px;
+	}
+}

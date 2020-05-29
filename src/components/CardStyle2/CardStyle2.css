@@ -1,0 +1,52 @@
+.image-overlay {
+	background: rgba(0, 12, 40, 0.54);
+	height: 164px;
+	width: 40%;
+	top: 0;
+	right: 0;
+	position: absolute;
+	padding: 0;
+}
+
+.cardHeader {
+	background-color: rgba(0, 12, 40, 0.54);
+	width: 50vw;
+	height: 164px;
+}
+
+.text-block {
+	position: absolute;
+	top: 40px;
+	right: 16px;
+	color: #ffffff;
+	font-family: "League Gothic - Regular";
+	font-size: 28px;
+	font-weight: 400;
+	letter-spacing: 0.5px;
+	line-height: 30px;
+}
+
+.workoutListIcon {
+	width: 24px;
+	height: 24px;
+	cursor: pointer;
+}
+
+.text-block h4 {
+	color: #ffffff;
+	font-family: "League Gothic - Regular";
+	font-size: 28px;
+	font-weight: 400;
+	letter-spacing: 0.5px;
+	line-height: 30px;
+}
+
+.text-block p {
+	color: #ffffff;
+	font-family: "Open Sans";
+	font-size: 10px;
+	font-weight: 700;
+	letter-spacing: 0.3px;
+	line-height: 12px;
+	text-transform: uppercase;
+}

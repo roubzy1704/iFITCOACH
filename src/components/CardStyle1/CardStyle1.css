@@ -1,0 +1,101 @@
+.card:hover {
+	transform: scale(1.03, 1.03) rotate(0.1deg);
+}
+
+.cardBody {
+	padding: 0px 10px;
+}
+
+.deskCard {
+	width: 288px;
+	height: 280px;
+	margin-left: 10px;
+	margin-right: 10px;
+	box-shadow: 0 7px 12px rgba(46, 49, 52, 0.3);
+	border-radius: 4px;
+	background-color: #ffffff;
+	justify-content: normal;
+}
+
+/* .deskCardImage {
+	width: 288px;
+	height: 164px;
+} */
+
+.deskCardBody {
+	margin-top: 10px;
+	display: inline-flex;
+}
+
+.DeskCardTitle {
+	/* justify-content: flex-start;
+	position: relative;
+	display: inline-flex; */
+	/* left: 0; */
+	text-align: left;
+	color: #2e3134;
+	font-family: "Open Sans";
+	font-size: 16px;
+	font-weight: 700;
+	letter-spacing: 0.3px;
+	line-height: 18px;
+	width: 220px;
+}
+
+.deskCardAvatar {
+	/* justify-content: flex-end;
+	position: relative;
+	align-items: right;
+	right: 0; */
+	width: 28px;
+	height: 28px;
+}
+.deskCardAvatar:hover {
+	cursor: pointer;
+}
+
+.metrics {
+	display: flex;
+	justify-content: flex-start;
+}
+
+.metrics p {
+	color: #2e3134;
+	font-family: "Open Sans";
+	font-size: 12px;
+	font-weight: 700;
+	letter-spacing: 0.3px;
+	line-height: 12px;
+	text-transform: uppercase;
+}
+
+.time {
+	display: flex;
+	margin-right: 10px;
+}
+
+.distance {
+	display: flex;
+}
+
+.iconifyClass {
+	margin: 0px 5px;
+	width: 12px;
+	height: 12px;
+}
+
+.details {
+	display: flex;
+	justify-content: flex-start;
+	color: #0069d2;
+	font-family: "Open Sans";
+	font-size: 14px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+	line-height: 16px;
+	text-transform: uppercase;
+}
+
+.details:hover {
+	text-decoration: none;
+}

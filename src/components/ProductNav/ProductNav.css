@@ -1,0 +1,27 @@
+.proNav {
+	width: auto;
+	height: 46px;
+	border-bottom: 2px solid #d5d6d6;
+}
+
+.proNav > li {
+	margin-right: 70px;
+}
+
+.proNavlink {
+	height: 14px;
+	color: rgba(46, 49, 52, 0.8) !important;
+	font-family: "Open Sans";
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+.line {
+	width: 0;
+	height: 45px;
+	border: 1px solid #d5d6d6;
+	margin-right: 30px;
+	margin-left: 30px;
+}

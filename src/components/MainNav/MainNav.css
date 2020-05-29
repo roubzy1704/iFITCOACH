@@ -1,0 +1,43 @@
+.mainNav {
+	background-color: #ffffff !important;
+}
+
+.mainNavBtn {
+	width: 90px;
+	height: 36px;
+	box-shadow: 0 1px 2px rgba(46, 49, 52, 0.4);
+	border-radius: 4px;
+	background-color: #0069d2;
+	/* position: relative;
+	right: 1%; */
+}
+
+.signup {
+	color: #ffffff;
+	font-family: "Open sans";
+	font-size: 12px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+}
+
+.mainNav a {
+	margin-right: 30px;
+}
+
+.mainLink {
+	color: rgba(46, 49, 52, 0.8) !important;
+	font-family: "Open Sans";
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+.mainNav .navbar-center {
+	float: none;
+	margin: 0 auto;
+	display: flex;
+	text-align: center;
+	font-size: large;
+}

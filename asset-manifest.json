@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/iFITCOACH/static/css/main.7d334f4f.chunk.css",
+    "main.js": "/iFITCOACH/static/js/main.ee2fc2b2.chunk.js",
+    "main.js.map": "/iFITCOACH/static/js/main.ee2fc2b2.chunk.js.map",
+    "runtime-main.js": "/iFITCOACH/static/js/runtime-main.c6df23ed.js",
+    "runtime-main.js.map": "/iFITCOACH/static/js/runtime-main.c6df23ed.js.map",
+    "static/js/2.a5e7fee5.chunk.js": "/iFITCOACH/static/js/2.a5e7fee5.chunk.js",
+    "static/js/2.a5e7fee5.chunk.js.map": "/iFITCOACH/static/js/2.a5e7fee5.chunk.js.map",
+    "index.html": "/iFITCOACH/index.html",
+    "precache-manifest.e44d454e458cbc271a76f9a90569dd62.js": "/iFITCOACH/precache-manifest.e44d454e458cbc271a76f9a90569dd62.js",
+    "service-worker.js": "/iFITCOACH/service-worker.js",
+    "static/css/main.7d334f4f.chunk.css.map": "/iFITCOACH/static/css/main.7d334f4f.chunk.css.map",
+    "static/js/2.a5e7fee5.chunk.js.LICENSE.txt": "/iFITCOACH/static/js/2.a5e7fee5.chunk.js.LICENSE.txt",
+    "static/media/Hero.css": "/iFITCOACH/static/media/HeroImage.0844b1ff.png",
+    "static/media/bike.f87ed462.png": "/iFITCOACH/static/media/bike.f87ed462.png",
+    "static/media/elliptical.79a0586f.png": "/iFITCOACH/static/media/elliptical.79a0586f.png",
+    "static/media/facebook.svg": "/iFITCOACH/static/media/facebook.0dd9e1c6.svg",
+    "static/media/img1.9a620867.png": "/iFITCOACH/static/media/img1.9a620867.png",
+    "static/media/img2.e93bd275.png": "/iFITCOACH/static/media/img2.e93bd275.png",
+    "static/media/img3.00e78d48.png": "/iFITCOACH/static/media/img3.00e78d48.png",
+    "static/media/img4.91f34bbe.png": "/iFITCOACH/static/media/img4.91f34bbe.png",
+    "static/media/img5.066bafd3.png": "/iFITCOACH/static/media/img5.066bafd3.png",
+    "static/media/img6.9d4ccfed.png": "/iFITCOACH/static/media/img6.9d4ccfed.png",
+    "static/media/img7.0c175e85.png": "/iFITCOACH/static/media/img7.0c175e85.png",
+    "static/media/img8.993b0f4f.png": "/iFITCOACH/static/media/img8.993b0f4f.png",
+    "static/media/strength.d84f9ae2.png": "/iFITCOACH/static/media/strength.d84f9ae2.png",
+    "static/media/treadmill.e1a51c79.png": "/iFITCOACH/static/media/treadmill.e1a51c79.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6df23ed.js",
+    "static/js/2.a5e7fee5.chunk.js",
+    "static/css/main.7d334f4f.chunk.css",
+    "static/js/main.ee2fc2b2.chunk.js"
+  ]
+}

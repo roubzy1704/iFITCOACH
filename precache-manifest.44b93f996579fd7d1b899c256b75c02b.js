@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29dbf3439e7ded31a68e03d578b1889c",
+    "revision": "6a78333245fef946aaaaec3ff6283603",
     "url": "/iFITCOACH/index.html"
   },
   {
-    "revision": "9cf309f3099fb30c662a",
-    "url": "/iFITCOACH/static/css/main.7d334f4f.chunk.css"
+    "revision": "8de069f36c76e97590e0",
+    "url": "/iFITCOACH/static/css/main.a8957968.chunk.css"
   },
   {
-    "revision": "e07e94c812252de001ac",
-    "url": "/iFITCOACH/static/js/2.a5e7fee5.chunk.js"
+    "revision": "8e14df126fec07981145",
+    "url": "/iFITCOACH/static/js/2.39ca0f93.chunk.js"
   },
   {
     "revision": "f4aac9c965aa45c554c7c1d1e3f69ce3",
-    "url": "/iFITCOACH/static/js/2.a5e7fee5.chunk.js.LICENSE.txt"
+    "url": "/iFITCOACH/static/js/2.39ca0f93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9cf309f3099fb30c662a",
-    "url": "/iFITCOACH/static/js/main.ee2fc2b2.chunk.js"
+    "revision": "8de069f36c76e97590e0",
+    "url": "/iFITCOACH/static/js/main.6e8180ba.chunk.js"
   },
   {
     "revision": "f64ec508127f741b19b9",
@@ -28,16 +28,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iFITCOACH/static/media/HeroImage.0844b1ff.png"
   },
   {
-    "revision": "2c491870e6fb0c787c093890b3c0865d",
-    "url": "/iFITCOACH/static/media/bike.f87ed462.png"
+    "revision": "86d74172c4afdd144d915c864a6669c2",
+    "url": "/iFITCOACH/static/media/bike.86d74172.svg"
   },
   {
-    "revision": "e745362cc47f33cf8e6b6dd36adcd1a7",
-    "url": "/iFITCOACH/static/media/elliptical.79a0586f.png"
+    "revision": "8e6ba2d0141c9fad30c938f340f44c7e",
+    "url": "/iFITCOACH/static/media/elliptical.8e6ba2d0.svg"
   },
   {
     "revision": "0dd9e1c657abda15dd1ae066afeb30a0",
     "url": "/iFITCOACH/static/media/facebook.0dd9e1c6.svg"
+  },
+  {
+    "revision": "7af5d0f6aafca3b2d2f7277e35ca0a1b",
+    "url": "/iFITCOACH/static/media/gearjunkie.7af5d0f6.svg"
   },
   {
     "revision": "01212731becb890c76b410f0e0676991",
@@ -72,11 +76,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iFITCOACH/static/media/img8.993b0f4f.png"
   },
   {
+    "revision": "344197048232e41f8e23abdcfb1332e0",
+    "url": "/iFITCOACH/static/media/instagram.34419704.svg"
+  },
+  {
+    "revision": "24c0f6dffe6f6c9016df63a8a76a0038",
+    "url": "/iFITCOACH/static/media/pinterest.24c0f6df.svg"
+  },
+  {
     "revision": "19e9872f64dac8b0f6ba08667f30ff2d",
     "url": "/iFITCOACH/static/media/strength.d84f9ae2.png"
   },
   {
     "revision": "dd99acb463568bedba947c79fdeed2cc",
     "url": "/iFITCOACH/static/media/treadmill.e1a51c79.png"
+  },
+  {
+    "revision": "a868fca8b86bc971e8a9ee9a2c182a9a",
+    "url": "/iFITCOACH/static/media/twitter.a868fca8.svg"
+  },
+  {
+    "revision": "0350e9fa24e73cac5a890494c489a6ed",
+    "url": "/iFITCOACH/static/media/youtube.0350e9fa.svg"
   }
 ]);

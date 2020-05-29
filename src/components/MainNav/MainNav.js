@@ -5,7 +5,7 @@ import logo from "./Image/iFITCOACH.png";
 function MainNav() {
 	return (
 		<div>
-			<nav className="navbar  mainnav navbar-expand-lg navbar-light bg-light ">
+			<nav className="navbar  mainNav navbar-expand-lg navbar-light bg-light ">
 				<a className="navbar-brand" href="#">
 					<img src={logo} alt="iFITCOACH"></img>
 				</a>

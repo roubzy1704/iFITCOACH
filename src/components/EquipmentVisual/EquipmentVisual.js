@@ -1,9 +1,9 @@
 import React from "react";
 import "./EquipmentVisual.css";
 import treadmill from "./Images/treadmill.png";
-import bike from "./Images/bike.png";
-import elliptical from "./Images/elliptical.png";
+import elliptical from "./Images/elliptical.svg";
 import strength from "./Images/strength.png";
+import bike from "./Images/bike.svg";
 
 function EquipmentVisual() {
 	return (

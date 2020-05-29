@@ -1,5 +1,6 @@
 import React from "react";
 import "./MediaSlider.css";
+import gearJunkie from "./Logos/gearjunkie.svg";
 import mashableLogo from "./Logos/mashable_logo.png";
 import wiredLogo from "./Logos/wired_logo.png";
 import $ from "jquery";
@@ -28,17 +29,17 @@ function MediaSlider() {
 	});
 
 	return (
-		<div class="container-fluid text-center carouselContainer">
-			<div class="row mx-auto my-auto">
+		<div className="container-fluid text-center carouselContainer">
+			<div className="row mx-auto my-auto">
 				<div
 					id="mediaCarousel"
-					class="carousel slide w-100"
+					className="carousel slide w-100"
 					data-ride="carousel"
 				>
-					<div class="carousel-inner w-100" role="listbox">
-						<div class="carousel-item active">
-							<div class="col-md-4">
-								<div class="card card-body">
+					<div className="carousel-inner w-100" role="listbox">
+						<div className="carousel-item active" data-interval="10000">
+							<div className="col-md-4">
+								<div className="card card-body">
 									<img src={mashableLogo} className="card-img-top" alt="..." />
 									<p className="card-text">
 										“Literally transports you from home to wherever you choose
@@ -47,9 +48,9 @@ function MediaSlider() {
 								</div>
 							</div>
 						</div>
-						<div class="carousel-item">
-							<div class="col-md-4">
-								<div class="card card-body">
+						<div className="carousel-item" data-interval="10000">
+							<div className="col-md-4">
+								<div className="card card-body">
 									<img src={mashableLogo} className="card-img-top" alt="..." />
 									<p className="card-text">
 										“Breathes new life into a tired, old running routine.”
@@ -57,10 +58,10 @@ function MediaSlider() {
 								</div>
 							</div>
 						</div>
-						<div class="carousel-item">
-							<div class="col-md-4">
-								<div class="card card-body">
-									<img src={mashableLogo} className="card-img-top" alt="..." />
+						<div className="carousel-item" data-interval="10000">
+							<div className="col-md-4">
+								<div className="card card-body">
+									<img src={gearJunkie} className="card-img-top" alt="..." />
 									<p className="card-text">
 										“You focus on putting in the work, and the technology
 										handles the rest.”
@@ -68,9 +69,9 @@ function MediaSlider() {
 								</div>
 							</div>
 						</div>
-						<div class="carousel-item">
-							<div class="col-md-4">
-								<div class="card card-body">
+						<div className="carousel-item" data-interval="10000">
+							<div className="col-md-4">
+								<div className="card card-body">
 									<img src={wiredLogo} className="card-img-top" alt="..." />
 									<p className="card-text">
 										“Literally transports you from home to wherever you choose
@@ -79,9 +80,9 @@ function MediaSlider() {
 								</div>
 							</div>
 						</div>
-						<div class="carousel-item">
-							<div class="col-md-4">
-								<div class="card card-body">
+						<div className="carousel-item" data-interval="10000">
+							<div className="col-md-4">
+								<div className="card card-body">
 									<img src={wiredLogo} className="card-img-top" alt="..." />
 									<p className="card-text">
 										“Breathes new life into a tired, old running routine.”
@@ -89,10 +90,10 @@ function MediaSlider() {
 								</div>
 							</div>
 						</div>
-						<div class="carousel-item">
-							<div class="col-md-4">
-								<div class="card card-body">
-									<img src={wiredLogo} className="card-img-top" alt="..." />
+						<div className="carousel-item" data-interval="10000">
+							<div className="col-md-4">
+								<div className="card card-body">
+									<img src={gearJunkie} className="card-img-top" alt="..." />
 									<p className="card-text">
 										“You focus on putting in the work, and the technology
 										handles the rest.”
@@ -102,22 +103,22 @@ function MediaSlider() {
 						</div>
 					</div>
 					<a
-						class="carousel-control-prev w-auto"
+						className="carousel-control-prev w-auto"
 						href="#mediaCarousel"
 						role="button"
 						data-slide="prev"
 					>
 						<img src={left} alt="left" />
-						<span class="sr-only">Previous</span>
+						<span className="sr-only">Previous</span>
 					</a>
 					<a
-						class="carousel-control-next w-auto"
+						className="carousel-control-next w-auto"
 						href="#mediaCarousel"
 						role="button"
 						data-slide="next"
 					>
 						<img src={right} alt="left" />
-						<span class="sr-only">Next</span>
+						<span className="sr-only">Next</span>
 					</a>
 				</div>
 			</div>

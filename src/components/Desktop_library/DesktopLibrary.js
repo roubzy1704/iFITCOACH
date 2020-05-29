@@ -1,5 +1,4 @@
 import React from "react";
-import "./DesktopLibrary.css";
 import img1 from "./Images/img1.png";
 import avatar1 from "./Images/avatar1.png";
 import img2 from "./Images/img2.png";
@@ -80,13 +79,12 @@ function DesktopLibrary() {
 		},
 	];
 	return (
-		<div class="container-fluid">
-			<div class="row justify-content-center mt-5">
+		<div className="container-fluid">
+			<div className="row justify-content-center mt-5">
 				{cardStyle1Obj.map(function (card, index) {
 					return (
-						<div class="col-auto mb-3">
+						<div className="col-auto mb-3" key={index}>
 							<CardStyle1
-								key={index}
 								title={card.title}
 								time={card.time}
 								distance={card.distance}
@@ -98,12 +96,11 @@ function DesktopLibrary() {
 				})}
 			</div>
 
-			<div class="row justify-content-center">
+			<div className="row justify-content-center">
 				{cardStyle2Obj.map(function (card, index) {
 					return (
-						<div class="col-auto mb-3">
+						<div className="col-auto mb-3" key={index}>
 							<CardStyle2
-								key={index}
 								title={card.title}
 								count={card.count}
 								img={card.img}

@@ -15,6 +15,7 @@ function ProductNav() {
 			<a className="nav-link proNavlink" href="#">
 				SHOP
 			</a>
+			<p className="line"></p>
 		</nav>
 	);
 }

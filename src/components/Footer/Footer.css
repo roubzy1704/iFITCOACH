@@ -1,30 +1,35 @@
 .footer {
-  width: 100%;
-  height: auto;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
-  background-color: #2e3134;
-  color: white;
-  padding-top: 20px;
-  font-family: "Open Sans";
-  font-size: 14px;
-  line-height: 16px;
+	width: 100%;
+	height: auto;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+	background-color: #2e3134;
+	color: white;
+	padding-top: 40px;
+	font-family: "Open Sans";
+	font-size: 14px;
+	line-height: 16px;
+}
+
+.footerLink {
+	margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+}
+.footer h5 {
+	font-weight: 700;
+	letter-spacing: 0.5px;
+	line-height: 16px;
+	padding-bottom: 10px;
 }
 
 .footer h5 {
-  font-weight: 700;
-  letter-spacing: 0.5px;
-  line-height: 16px;
-  padding-bottom: 10px;
-}
-
-.footer h5{
 	cursor: pointer;
 }
 
 .footer p {
-  opacity: 0.8;
-  font-weight: 600;
-  letter-spacing: 0.3px;
+	opacity: 0.8;
+	font-weight: 600;
+	letter-spacing: 0.3px;
 }
 
 .footer p:hover {
@@ -32,36 +37,49 @@
 }
 
 hr {
-  height: 2px;
-  background-color: #585a5d;
+	height: 2px;
+	background-color: #585a5d;
 }
 
-.social{
-  text-align: center;
+.social {
+	text-align: center;
 }
-.social img{
-  margin: 0px 20px;
+.social img {
+	margin: 0px 20px;
 }
 
+.bottom {
+	text-align: center;
+	justify-content: center;
+	margin: 0 auto;
+}
 
+.language {
+	text-align: center;
+	justify-content: center;
+	margin: 0 auto;
+}
 
-.legal{
-  text-align: center;
+.legal {
+	text-align: center;
+	font-size: 14px;
+	font-weight: 600;
+	letter-spacing: 0.3px;
+	padding: 10px 0px;
 }
 
 .languageBtn {
-  width: 0px;
-  height: 0px;
-  padding-right: 0px;
-  padding-left: 0px;
-  margin-left: 0px;
-  margin-right: 200px;
-  border-width: 0px;
-
-  color: #ffffff;
-  font-family: "Open Sans";
-  font-size: 14px;
-  font-weight: 700;
-  letter-spacing: 0.5px;
-  line-height: 16px;
+	width: 0px;
+	height: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	margin-left: 0px;
+	margin-right: 160px;
+	border-width: 0px;
+	color: #ffffff;
+	font-family: "Open Sans";
+	font-size: 14px;
+	font-weight: 700;
+	letter-spacing: 0.5px;
+	line-height: 0px;
 }

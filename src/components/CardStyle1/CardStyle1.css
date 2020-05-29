@@ -9,18 +9,11 @@
 .deskCard {
 	width: 288px;
 	height: 280px;
-	margin-left: 10px;
-	margin-right: 10px;
 	box-shadow: 0 7px 12px rgba(46, 49, 52, 0.3);
 	border-radius: 4px;
 	background-color: #ffffff;
 	justify-content: normal;
 }
-
-/* .deskCardImage {
-	width: 288px;
-	height: 164px;
-} */
 
 .deskCardBody {
 	margin-top: 10px;
@@ -28,10 +21,6 @@
 }
 
 .DeskCardTitle {
-	/* justify-content: flex-start;
-	position: relative;
-	display: inline-flex; */
-	/* left: 0; */
 	text-align: left;
 	color: #2e3134;
 	font-family: "Open Sans";
@@ -98,4 +87,5 @@
 
 .details:hover {
 	text-decoration: none;
+	color: blue;
 }

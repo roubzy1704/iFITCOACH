@@ -3,32 +3,32 @@ import "./CardStyle1.css";
 
 function CardStyle1(props) {
 	return (
-		<div class="card deskCard">
-			<img src={props.img} class="deskCardImage" alt="..." />
-			<div class="cardBody">
-				<div class="deskCardBody">
-					<h5 class="DeskCardTitle">{props.title}</h5>
-					<img class="deskCardAvatar" src={props.avatar} alt="avatar" />
+		<div className="card deskCard">
+			<img src={props.img} className="deskCardImage" alt="..." />
+			<div className="cardBody">
+				<div className="deskCardBody">
+					<h5 className="DeskCardTitle">{props.title}</h5>
+					<img className="deskCardAvatar" src={props.avatar} alt="avatar" />
 				</div>
-				<div class="metrics">
-					<div class="time">
+				<div className="metrics">
+					<div className="time">
 						<span
-							class="iconify iconifyClass"
+							className="iconify iconifyClass"
 							data-icon="bi:stopwatch"
 							data-inline="false"
 						></span>
 						<p>{props.time}</p>
 					</div>
-					<div class="distance">
+					<div className="distance">
 						<span
-							class="iconify iconifyClass"
+							className="iconify iconifyClass"
 							data-icon="cib:circle"
 							data-inline="false"
 						></span>
 						<p>{props.distance}</p>
 					</div>
 				</div>
-				<a href="#" class="details">
+				<a href="#" className="details">
 					VIEW DETAILS
 				</a>
 			</div>

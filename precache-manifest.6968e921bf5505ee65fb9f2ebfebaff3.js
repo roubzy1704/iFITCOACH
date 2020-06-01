@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6a78333245fef946aaaaec3ff6283603",
+    "revision": "ed791209c910a6cc40c2a86b531cf254",
     "url": "/iFITCOACH/index.html"
   },
   {
-    "revision": "8de069f36c76e97590e0",
-    "url": "/iFITCOACH/static/css/main.a8957968.chunk.css"
+    "revision": "546b57ce009c55680a79",
+    "url": "/iFITCOACH/static/css/main.7a344360.chunk.css"
   },
   {
     "revision": "8e14df126fec07981145",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iFITCOACH/static/js/2.39ca0f93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8de069f36c76e97590e0",
-    "url": "/iFITCOACH/static/js/main.6e8180ba.chunk.js"
+    "revision": "546b57ce009c55680a79",
+    "url": "/iFITCOACH/static/js/main.48b7f33c.chunk.js"
   },
   {
     "revision": "f64ec508127f741b19b9",

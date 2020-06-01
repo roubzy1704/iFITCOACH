@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/iFITCOACH/static/css/main.a8957968.chunk.css",
-    "main.js": "/iFITCOACH/static/js/main.6e8180ba.chunk.js",
-    "main.js.map": "/iFITCOACH/static/js/main.6e8180ba.chunk.js.map",
+    "main.css": "/iFITCOACH/static/css/main.7a344360.chunk.css",
+    "main.js": "/iFITCOACH/static/js/main.48b7f33c.chunk.js",
+    "main.js.map": "/iFITCOACH/static/js/main.48b7f33c.chunk.js.map",
     "runtime-main.js": "/iFITCOACH/static/js/runtime-main.c6df23ed.js",
     "runtime-main.js.map": "/iFITCOACH/static/js/runtime-main.c6df23ed.js.map",
     "static/js/2.39ca0f93.chunk.js": "/iFITCOACH/static/js/2.39ca0f93.chunk.js",
     "static/js/2.39ca0f93.chunk.js.map": "/iFITCOACH/static/js/2.39ca0f93.chunk.js.map",
     "index.html": "/iFITCOACH/index.html",
-    "precache-manifest.44b93f996579fd7d1b899c256b75c02b.js": "/iFITCOACH/precache-manifest.44b93f996579fd7d1b899c256b75c02b.js",
+    "precache-manifest.6968e921bf5505ee65fb9f2ebfebaff3.js": "/iFITCOACH/precache-manifest.6968e921bf5505ee65fb9f2ebfebaff3.js",
     "service-worker.js": "/iFITCOACH/service-worker.js",
-    "static/css/main.a8957968.chunk.css.map": "/iFITCOACH/static/css/main.a8957968.chunk.css.map",
+    "static/css/main.7a344360.chunk.css.map": "/iFITCOACH/static/css/main.7a344360.chunk.css.map",
     "static/js/2.39ca0f93.chunk.js.LICENSE.txt": "/iFITCOACH/static/js/2.39ca0f93.chunk.js.LICENSE.txt",
     "static/media/Hero.css": "/iFITCOACH/static/media/HeroImage.0844b1ff.png",
     "static/media/bike.svg": "/iFITCOACH/static/media/bike.86d74172.svg",
@@ -35,7 +35,7 @@
   "entrypoints": [
     "static/js/runtime-main.c6df23ed.js",
     "static/js/2.39ca0f93.chunk.js",
-    "static/css/main.a8957968.chunk.css",
-    "static/js/main.6e8180ba.chunk.js"
+    "static/css/main.7a344360.chunk.css",
+    "static/js/main.48b7f33c.chunk.js"
   ]
 }

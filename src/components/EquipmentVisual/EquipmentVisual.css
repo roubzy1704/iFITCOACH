@@ -35,6 +35,10 @@
 }
 
 .equipCard:hover {
+	transform: scale(1.03, 1.03) rotate(0.1deg);
+}
+
+.equipCard:hover {
 	cursor: pointer;
 }
 

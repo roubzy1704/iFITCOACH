@@ -62,6 +62,7 @@ function Footer() {
 								<span id="selected">English</span>
 							</button>
 							<div className="dropdown-menu">
+								<button className="dropdown-item">English</button>
 								<button className="dropdown-item">Spanish</button>
 								<button className="dropdown-item">French</button>
 								<button className="dropdown-item">Mandarin</button>
